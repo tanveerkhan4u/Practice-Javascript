@@ -1,5 +1,5 @@
 // console.log("word");
-// string data type  
+// string data type
 
 // let username = 'iron man';
 // console.log(username);
@@ -18,9 +18,15 @@
 // let age = 55;
 // let fullName = 'Hi i am '+ age + ' ' + 'years old ' +  firstName + '  ' +lastName;
 // console.log(fullName);
+// const hoursInDay = 24;
+// console.log(hoursInDay);
 
-const hoursInDay = 24;
-console.log(hoursInDay);
+let b = 10;
+let c = 20;
+let d = b + c;
+console.log(d);  
+
+
 
 
 
