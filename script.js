@@ -13,11 +13,15 @@
 // let isHappy = false;
 // console.log(isHappy);
 
-let lastName = '& Badrey khan';
-let firstName = 'my name is ' +'Tanveer Khan';
-let age = 55;
-let fullName = 'Hi i am '+ age + ' ' + 'years old ' +  firstName + '  ' +lastName;
-console.log(fullName);
+// let lastName = '& Badrey khan';
+// let firstName = 'my name is ' +'Tanveer Khan';
+// let age = 55;
+// let fullName = 'Hi i am '+ age + ' ' + 'years old ' +  firstName + '  ' +lastName;
+// console.log(fullName);
+
+const hoursInDay = 24;
+console.log(hoursInDay);
+
 
 
 
