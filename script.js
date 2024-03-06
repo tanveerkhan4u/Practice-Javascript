@@ -1,8 +1,8 @@
 // console.log("word");
 // string data type  
 
-let x = 'iron man';
-console.log(x);
+let username = 'iron man';
+console.log(username);
 
 let y = "my name is khan";
 console.log(y);
