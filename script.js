@@ -16,7 +16,7 @@
 let lastName = 'tanveer khan';
 let firstName = 'my name is ' ;
 let age = 25;
-let fullName = firstName + lastName + ' ' + age;
+let fullName = 'Hi i am '+ age + ' ' + 'years old ' +  firstName + lastName;
 console.log(fullName);
 
 
