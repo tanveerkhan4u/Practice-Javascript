@@ -10,5 +10,6 @@
 // let age = 25;
 // console.log(age);
 
-let isHappy = false;
-console.log(isHappy);
+// let isHappy = false;
+// console.log(isHappy);
+
