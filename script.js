@@ -13,3 +13,7 @@
 // let isHappy = false;
 // console.log(isHappy);
 
+let a = 'tanveer';
+
+let b = 'my name is' +  a;
+console.log(b);
