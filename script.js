@@ -7,5 +7,8 @@
 // let userIntro = "my name is khan";
 // console.log(userIntro);
 
-let age = 25;
-console.log(age);
+// let age = 25;
+// console.log(age);
+
+let isHappy = false;
+console.log(isHappy);
