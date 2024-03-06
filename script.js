@@ -13,7 +13,10 @@
 // let isHappy = false;
 // console.log(isHappy);
 
-let a = 'tanveer';
+let lastName = 'tanveer khan';
 
-let b = 'my name is' +  a;
-console.log(b);
+let firstName = 'my name is ' ;
+
+
+let fullName = firstName + lastName;
+console.log(fullName);
