@@ -13,10 +13,11 @@
 // let isHappy = false;
 // console.log(isHappy);
 
-let lastName = 'Badrey khan';
-let firstName = 'my name is ' ;
+let lastName = '& Badrey khan';
+let firstName = 'my name is ' +'Tanveer Khan';
 let age = 55;
-let fullName = 'Hi i am '+ age + ' ' + 'years old ' +  firstName + lastName;
+let fullName = 'Hi i am '+ age + ' ' + 'years old ' +  firstName + '  ' +lastName;
 console.log(fullName);
+
 
 
