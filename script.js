@@ -24,9 +24,10 @@
 // let c = 20;
 // let d = b + c;
 // console.log(d);  
+// let a = 'your message here'
+// console.log(a);
 
-let a = 'your message here'
-console.log(a);
+alert('hello world');
 
 
 
