@@ -18,13 +18,17 @@
 // let age = 55;
 // let fullName = 'Hi i am '+ age + ' ' + 'years old ' +  firstName + '  ' +lastName;
 // console.log(fullName);
-// const hoursInDay = 24;
-// console.log(hoursInDay);
+// const hours_InDay = 24;
+// console.log(hours_InDay);
+// let b = 10;
+// let c = 20;
+// let d = b + c;
+// console.log(d);  
 
-let b = 10;
-let c = 20;
-let d = b + c;
-console.log(d);  
+let a = 'your message here'
+console.log(a);
+
+
 
 
 
