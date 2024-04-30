@@ -30,6 +30,7 @@
 // alert("your message here");
 
 
+let name = ['tanveer', 'khan', 'badrey', 'khan'];
 
 
 
